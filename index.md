@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+
+<!--
 <html lang="fr">
 
   <div>
@@ -6,3 +8,6 @@
   </div>
 
 </html>
+-->
+
+<span>D'ici</span>
