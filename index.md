@@ -1,10 +1,16 @@
-## Test titre
-
 <!DOCTYPE html>
 <html lang="fr">
 
-  <div>
-  Pute
-  </div>
+	<head>
+	
+	<title>Titre</title>
+	
+	</head>
+	
+	<body>
+	
+	<span style="text-align: right;">TEST</span>
+	
+	</body>
 
 </html>
